@@ -1,9 +1,5 @@
 # 🌍 AI Travel Agent Chatbot (Python + Streamlit)
 
-
-
-[![AI Travel Chatbot Concept](https://pin.it/6q0Xz4Wyq)](https://pin.it/6q0Xz4Wyq)
-
 An AI-powered **Travel Assistant Chatbot** built with **Python**, **Streamlit**, and **OpenAI API**.
 It helps users explore destinations, find travel suggestions, and get personalized trip plans — all through natural conversation.
 
@@ -123,3 +119,4 @@ This project is licensed under the **MIT License**.
 
 
 Built to make travel planning simple and conversational — combining the power of AI with the ease of Streamlit.
+
