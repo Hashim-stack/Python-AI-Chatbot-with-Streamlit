@@ -16,6 +16,7 @@ It helps users explore destinations, find travel suggestions, and get personaliz
 
 ---
 
+
 ## 🧠 Tech Stack
 
 * **Python 3.10+**
@@ -119,4 +120,5 @@ This project is licensed under the **MIT License**.
 
 
 Built to make travel planning simple and conversational — combining the power of AI with the ease of Streamlit.
+
 
